@@ -1,0 +1,3 @@
+lxml
+wikipediaapi
+nested_lookup
