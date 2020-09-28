@@ -1,3 +1,18 @@
+#!/usr/bin/env python
+
+"""Parser for German Parliament Data
+
+Transforms Bundestag speeches from XML 
+to json list file.
+"""
+
+__author__ = "Armin Pournaki"
+__copyright__ = "Copyright 2020, Armin Pournaki"
+__license__ = "GPLv3"
+__version__ = "1.0"
+__email__ = "pournaki@mis.mpg.de"
+
+
 def parser():
 
     def printProgressBar (iteration, total, prefix = '', suffix = '', decimals = 1, length = 100, fill = '█'):
