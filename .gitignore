@@ -8,4 +8,5 @@ tmp/
 build
 htmlcov
 .ipynb_checkpoints
+
 speeches.jsonl
