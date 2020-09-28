@@ -157,5 +157,7 @@ def parser():
         for line in flatdict:
             json.dump(line, f, ensure_ascii=False)
             f.write("\n")
-    
+
+    print("Success! Saved parsed speeches to './speeches.jsonl'.")
+
     return flatdict

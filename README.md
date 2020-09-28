@@ -1,7 +1,7 @@
 # Bundestag Parser
 
 ## Description
-A parser that transforms XMLs from [Deutscher Bundestag](https://www.bundestag.de/services/opendata) to a list of JSONs. The speeches are saved in `./bt_speeches.jsonl`. Every line consists of one speech dictionary. See [sample output](#sample-output) for more information. 
+A parser that transforms XMLs from [Deutscher Bundestag](https://www.bundestag.de/services/opendata) to a list of JSONs. The speeches are saved in `./speeches.jsonl`. Every line consists of one speech dictionary. See [sample output](#sample-output) for more information. 
 
 ## How to use
 Make sure you have Python 3 running on your system. Then, install the necessary libraries: 
