@@ -7,16 +7,21 @@ A parser that transforms XMLs from the 19th election period* of [Deutscher Bunde
 *2017/10/24 until today
 
 ## How to use
-Make sure you have Python 3 running on your system. Then, install the necessary libraries: 
+Clone and enter this repo:
+``` 
+$ git clone https://github.com/pournaki/bundestag-parser
+$ cd bundestag-parser
+```
 
-``` sh
-pip3 install -r requirements.txt
+Install the necessary libraries: 
+
+``` 
+$ pip3 install -r requirements.txt
 ```
 
 Run the parser: 
-
-``` sh
-python3 run.py
+```
+$ python3 run.py
 ```
 
 ## Sample output
