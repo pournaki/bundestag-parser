@@ -2,11 +2,11 @@
 .idea
 *.log
 tmp/
+*.jsonl
+*.zip
 
 *.py[cod]
 *.egg
 build
 htmlcov
 .ipynb_checkpoints
-
-speeches.jsonl
